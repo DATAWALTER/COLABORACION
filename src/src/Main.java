@@ -72,7 +72,7 @@ public class Main {
     public static void ismael_division() {
         System.out.print("\nDIVISION");
         System.out.print("\n========");
-        System.out.println("\n");
+        System.out.println("\nOK YA TERMINE LA DIVISION");
     }
 
     public static void algonuevo() {
