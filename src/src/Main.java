@@ -54,13 +54,13 @@ public class Main {
     public static void walter_suma() {
         System.out.print("\nSUMA");
         System.out.print("\n====");
-        System.out.println("\n");
+        System.out.println("\nOK TERMINE LA SUMA");
     }
 
     public static void walter_resta() {
         System.out.print("\nRESTA");
         System.out.print("\n=====");
-        System.out.println("\n");
+        System.out.println("\nOK TERMINE LA RESTA");
     }
 
     public static void ismael_multiplicacion() {
