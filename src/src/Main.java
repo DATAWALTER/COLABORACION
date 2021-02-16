@@ -60,7 +60,7 @@ public class Main {
     public static void walter_resta() {
         System.out.print("\nRESTA");
         System.out.print("\n=====");
-        System.out.println("\nOK TERMINE LA RESTAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
+        System.out.println("\nOK TERMINE LA RESTAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY");
     }
 
     public static void ismael_multiplicacion() {
