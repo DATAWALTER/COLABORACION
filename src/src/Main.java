@@ -66,7 +66,7 @@ public class Main {
     public static void ismael_multiplicacion() {
         System.out.print("\nMULTIPLICACION");
         System.out.print("\n==============");
-        System.out.println("\n");
+        System.out.println("\nOK YA TERMINE LA MULTIPLICACION");
     }
 
     public static void ismael_division() {
